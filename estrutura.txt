@@ -1,0 +1,21 @@
+Agenda de contatos:
+1. Adicionar contato:
+2. Ver contatos:
+3. Editar dados do contato:
+4. Marcar contato como favorito:
+5. Deletar um contato:
+6. Fechar agenda de contatos:
+
+Contato 1
+Nome: 
+Telefone:
+E-mail: 
+Favorito: [★]
+
+Larissa Naomi Mutamoto Cardoso
+14998822431
+naomi.muramoto@gmail.com
+
+Pedro Henrique
+14 99859-5187
+pedro@gmail.com
